@@ -28,6 +28,15 @@ git remote add origin git@github.com:Furious-sml/House-classifier.git
 git push -u origin master
 ```
 
+## How to download the house-style.zip file through a terminal
+
+Run the following code in a terminal
+
+```
+wget https://raw.githubusercontent.com/Furious-sml/House-classifier/master/data/house-style.zip
+```
+
+
 
 
 
