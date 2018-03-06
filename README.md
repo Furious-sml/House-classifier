@@ -40,18 +40,23 @@ git remote add origin git@github.com:Furious-sml/House-classifier.git
 git push -u origin master
 ```
 
-## How to download the zip file through a terminal
+## How to download the file through a terminal
 
 Run the following code in a terminal
 
 ```
-wget https://raw.githubusercontent.com/Furious-sml/House-classifier/master/data/house-style.zip
+wget https://raw.github.com/Furious-sml/House-classifier/master/data/house-style.zip
 ```
 
 Same applies to the other files. 
-For example, house-apartment-style2.zip can be downloaded like below.
+For example, house-apartment-style3.zip can be downloaded like below.
 ```
-wget https://raw.githubusercontent.com/Furious-sml/House-classifier/master/data/house-apartment-style2.zip
+wget https://raw.github.com/Furious-sml/House-classifier/master/data/house-apartment-style3.zip
+```
+
+For example, to download lesson2.ipynb
+```
+wget https://raw.github.com/Furious-sml/House-classifier/master/homework/hw2/lesson2.ipynb
 ```
 
 
