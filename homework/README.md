@@ -1,7 +1,7 @@
-## homework 0: 20180224: sml-group-study starts
+## homework 0: 2018.02.24: sml-group-study starts
 - Run through the current code (Google Colab or your own setup)
 
-## homework 1: 20180303
+## homework 1: 2018.03.03
 *Homework 1 (Due next week)*
 We will modify the code to run it on different images we choose. Choose what you want to classify (i.e. apples vs pears, darth vader vs luke skywalker)
 - Download two different types of 50-100 (i.e. 50 apples 50 pears)
@@ -22,7 +22,7 @@ Image Downloader
 Browse and download images on a web page.
 
 
-## homework 2: 20180310
+## homework 2: 2018.03.10
 Fast AI is amazing and easy to use on your own data source. This weeks *Homework (HW 2)* however is to try apply our *Fast ai model from homework 1* to a real world data source on Kaggle and see how you score on the leaderboard. You will need a Kaggle account set up and accept the competition rules in order to download the data set.
 
 Recommended sources for this week are:
@@ -45,3 +45,19 @@ Plant Seedlings Classification
 Determine the species of a seedling from an image
 
 
+## homework 3: 2018.03.17
+This week's homework will be be applying what you have learned onto other Kaggle datasets to do a *prediction task*. We've picked two datasets that has some real world applications for you to apply your skills to
+
+*Used Car Sales*
+https://www.kaggle.com/orgesleka/used-cars-database
+
+*Deaths in the United States*
+https://www.kaggle.com/cdc/mortality/data
+
+Let us know how you get along and don't be afraid to ask any questions! (edited)
+kaggle.com
+Used cars database
+Over 370,000 used cars scraped from Ebay Kleinanzeigen
+kaggle.com
+Death in the United States
+Learn more about the leading causes of death from 2005-2015
