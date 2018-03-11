@@ -37,7 +37,7 @@ git@github.com:Furious-sml/House-classifier.git
 git clone git@github.com:Furious-sml/House-classifier.git
 ```
 
-#### how to pull for update the repo
+#### how to pull for updating the repo
 ```
 git pull
 ```
