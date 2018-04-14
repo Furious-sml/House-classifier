@@ -90,8 +90,9 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labe
 
 ## homework 5-6: 2018.04.07
 
-Hi guys,
+
 #### This weeks homework ( *homework 5* )
+Hi guys,
 This weeks homework ( *homework 5* ) is to *choose three topics* from the fast.ai course *that you feel the most unsure about* and research and study them - to reinforce your knowledge-  in your own time this week. If you uncover any handy resources/ tutorials/ videos on the internet, please feel free to share them on the # tools channel - so that others can learn from your findings too!
 
 Example Topics include:
