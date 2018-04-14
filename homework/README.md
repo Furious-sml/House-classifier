@@ -83,3 +83,10 @@ http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
 For the following easy dataset from either IMDB, Yelp or Amazon data:
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labelled%20sentences.zip
+
+
+## homework 5: 2019.03.31 : Easter holiday
+
+
+## homework 5-6: 2018.04.07
+
